@@ -13,8 +13,12 @@
 * 卢瑟
 
 我甚至还会编程
+
 `我是超人`
 
 ```javascript
 console.log('我是超人')
 ```
+
+这是我
+![superman](cr.jpg)
